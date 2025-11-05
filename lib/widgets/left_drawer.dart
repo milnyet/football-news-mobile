@@ -60,6 +60,16 @@ class LeftDrawer extends StatelessWidget {
               );
             },
           ),
+          ListTile(
+            leading: const Icon(Icons.newspaper),
+            title: const Text('Lihat News'),
+            onTap: () {
+              Navigator.pushReplacement(
+                context,
+                  MaterialPageRoute(
+                    builder: (context) => MyHomePage(),));
+            },
+          ),
         ],
       ),
     );
