@@ -14,3 +14,9 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+Footbal News
+[![Build Status](https://app.bitrise.io/app/289ced3a-d02e-43c4-961b-b2be3679f1aa/status.svg?token=cPQKprGG3UGjU2_emELVJQ&branch=master)](https://app.bitrise.io/app/289ced3a-d02e-43c4-961b-b2be3679f1aa)
+
+Download aplikasi versi terbaru: [Download APK](https://app.bitrise.io/app/289ced3a-d02e-43c4-961b-b2be3679f1aa/installable-artifacts/b4e6df3b1b3cb064/public-install-page/65cd42171d8a98fdb7d4e920152dfa82)
+
